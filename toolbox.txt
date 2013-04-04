@@ -1,17 +1,61 @@
+http://thetoolbox.cc/
+
 *** Performances ***
 http://gtmetrix.com/
 http://www.webpagetest.org/
+http://tools.pingdom.com/fpt/
+
+
+*** Dev ***
+https://snipt.net/
+http://refiddle.com/
+http://gskinner.com/RegExr/
+http://dochub.io/#jquery/live
+
+
+*** SQL ***
+http://sqlfiddle.com/
 
 
 *** JavaScript ***
-http://refiddle.com/
 jquer.in
+http://raphaeljs.com/tiger.html
+http://jsbeautifier.org/
+http://jsbin.com/
 
 
 *** HTML/CSS ***
+http://karolk.com/csspainter/
+http://cssdeck.com/
+http://www.cssflow.com/snippets
+http://csswarp.eleqtriq.com/
+http://www.initializr.com/
+http://nice-entity.com/
+http://www.spritecow.com/
+http://cssarrowplease.com/
+
+
+*** XML/JSON
+http://xmlplayground.com/
+http://jsoneditoronline.org/
+
+
+*** Design, icon, images ***
+http://fontello.com/
+http://iconmonstr.com/
+http://wordmark.it/
+http://www.iconfinder.com/
+http://www.punypng.com/
+http://lorempixel.com/
+http://ajaxload.info/
+http://thenounproject.com/
 
 
 *** Autres ***
 http://www.responsinator.com/
 https://moqups.com/#!/
-http://iconmonstr.com/
+http://color.aurlien.net/
+http://pixabay.com/
+http://mothereffinganimatedgif.com/
+http://www.minutebill.com/
+http://www.jpegmini.com/
