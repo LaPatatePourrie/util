@@ -43,6 +43,8 @@ www.k33g.org/?q=node/74
 http://www.croes.org/gerald/blog/wp-content/uploads/2011/08/modele-de-branche-git.pdf
 http://www.croes.org/gerald/blog/wp-content/uploads/2011/08/modele-de-branche-git.pdf
 http://www.siteduzero.com/informatique/tutoriels/gerez-vos-projets-a-l-aide-du-gestionnaire-de-versions-subversion
+http://www.mon-code.net/article/42/installation-et-configuration-de-git-sur-debian-et-initialisation-dun-depot-git
+http://stackoverflow.com/questions/4083079/how-to-run-git-ssh-authentication-agent
 
 
 *** MongoDB
