@@ -49,6 +49,7 @@ http://www.punypng.com/
 http://lorempixel.com/
 http://ajaxload.info/
 http://thenounproject.com/
+http://www.clker.com/ (SVG)
 
 
 *** Autres ***
