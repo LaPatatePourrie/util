@@ -1,6 +1,6 @@
 *** Divers ***
-http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/
 http://uxdesign.smashingmagazine.com/2012/09/11/sticky-menus-are-quicker-to-navigate/
+http://blog.moncoindunet.fr/linux/openssl-creer-un-certificat-auto-signe/ (SSL)
 
 
 *** HTML/CSS ***
@@ -35,7 +35,8 @@ http://www.codeproject.com/Articles/511031/A-sample-real-time-web-application-us
 http://pivotal.github.com/jasmine/
 - RequireJS
 http://hugeen.wordpress.com/2013/01/03/comment-debuter-avec-requirejs/
-
+- VanillaJS
+http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/ 
 
 
 *** Git ***
