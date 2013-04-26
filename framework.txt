@@ -1,0 +1,26 @@
+PHP
+Silex: http://silex.sensiolabs.org/
+CakePHP: http://cakephp.org/
+
+Javascript
+- Backbone
+https://github.com/k33g/articles/blob/master/2011-08-08-BB-MODELS-COLLECTIONS.md
+http://www.atinux.fr/2012/04/15/backbone-js-le-fonctionnement-des-modeles/
+http://www.synbioz.com/blog/presentation_de_backbone_js_partie_1
+www.atinux.fr/2011/12/10/organiser-son-code-backbone-js-en-modules/
+- Ember
+http://twbrandt.github.com/2013/02/11/Ember-Quick_Start_Guide/
+http://www.codeproject.com/Articles/511031/A-sample-real-time-web-application-using-Ember-js
+- Jasmine
+http://pivotal.github.com/jasmine/
+- RequireJS
+http://hugeen.wordpress.com/2013/01/03/comment-debuter-avec-requirejs/
+- VanillaJS
+http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/ 
+
+
+NodeJS
+
+
+PHP-SQL
+Medoo: http://medoo.in/
